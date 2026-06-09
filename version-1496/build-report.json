@@ -1,0 +1,21 @@
+{
+  "records_parsed": 2000,
+  "movies_generated": 2000,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "html_files_total": 2013,
+  "video_sources_extracted": 150,
+  "unique_video_sources": 20,
+  "zip_path": "/mnt/data/movie_static_site.zip",
+  "zip_size_bytes": 11985412,
+  "category_counts": {
+    "koubei-guochan": 250,
+    "gaoqing-movie": 250,
+    "remen-juji": 250,
+    "xuanyi-jingsong": 250,
+    "aiqing-xiju": 250,
+    "dongzuo-maoxian": 250,
+    "kehuan-qihuan": 250,
+    "juqing-jiating": 250
+  }
+}

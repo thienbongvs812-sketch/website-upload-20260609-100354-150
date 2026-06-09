@@ -1,0 +1,18 @@
+{
+  "movie_count": 2000,
+  "category_count": 10,
+  "html_count_expected": 2014,
+  "category_counts": {
+    "日韩电影": 200,
+    "热播剧集": 200,
+    "高清大片": 200,
+    "悬疑犯罪": 200,
+    "爱情剧情": 200,
+    "喜剧综艺": 200,
+    "动画儿童": 200,
+    "纪录人文": 200,
+    "奇幻科幻": 200,
+    "精选片单": 200
+  },
+  "video_sources_extracted_from_original_js": 150
+}
